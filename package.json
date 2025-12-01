@@ -1,0 +1,11 @@
+{
+  "name": "prueba-railway-puppeteer",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "puppeteer": "^22.0.0"
+  }
+}
